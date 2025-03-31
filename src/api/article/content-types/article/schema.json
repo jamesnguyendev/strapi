@@ -53,6 +53,13 @@
         "shared.rich-text",
         "shared.slider"
       ]
+    },
+    "richText": {
+      "type": "customField",
+      "options": {
+        "preset": "defaultHtml"
+      },
+      "customField": "plugin::ckeditor5.CKEditor"
     }
   }
 }
